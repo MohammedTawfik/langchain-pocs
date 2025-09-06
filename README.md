@@ -162,3 +162,7 @@ If you find this project helpful, please consider:
 
 - `uv init` used to initialzie the project
 - `uv add <package name>` used to install a package
+
+Search Service
+
+- using Tavily service to search
